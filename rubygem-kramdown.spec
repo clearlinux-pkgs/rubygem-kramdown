@@ -4,7 +4,7 @@
 #
 Name     : rubygem-kramdown
 Version  : 1.7.0
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/kramdown-1.7.0.gem
 Source0  : https://rubygems.org/downloads/kramdown-1.7.0.gem
 Summary  : No detailed summary available
